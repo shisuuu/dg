@@ -109,10 +109,3 @@
 
 - Rehabilitation
 	- dient der Wiedererlangung der körperlichen Leistungsfähigkeit oder der Abwendung von Beeinträchtigungen und Einschränkungen
-
-==Internetrecherche==
-
-- Mitgliedsschaft in einer Krankenkasse oder der Vertrag mit einer Krankenversicherung ist entweder gesetzlich verpflichtend (Pflichtversicherung) oder freiwillig abschließbar (Individualversicherung)
-
-- Die private Krankenversicherung in Deutschland ist substitutiv: Ein Teil der Bevölkerung kann die private Krankenversicherung als Vollversicherung wählen, oder hat keinen Zugang zum gesetzlichen Krankenversicherungsschutz  
-	- diese Funktion existiert nur in den USA und Deutschland
