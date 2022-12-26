@@ -8,3 +8,4 @@
 Familienangehörige eines Versicherten (Kinder, Ehegatenn und Lebenspartner) sind unter bestimmten Voraussetzungen beitragsfrei mitversichert
 
 - diese dürfen kein oder nur ein sehr geringes Einkommen erzielen
+-  
