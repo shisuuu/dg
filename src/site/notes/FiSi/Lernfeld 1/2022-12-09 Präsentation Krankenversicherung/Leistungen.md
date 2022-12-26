@@ -20,6 +20,11 @@ Diese sind in der GKV grundsätzlich immer enthalten und werden von den [[FiSi/L
 
 Leistungen wie Akupunktur oder Osteopathie, die nicht von allen Krankenkassen angeboten werden, können durch einen Abschluss in einer [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|privaten Zusatzversicherung]] erhalten werden.
 
+Bei Krankheiten / Unfällen die außerhalb der Arbeitszeit geschehen:
+- der Arbeitgeber zahlt für die ersten sechs Wochen das volle Gehalt
+- nach 6 bis 72 Wochen wird Krankengeld erhält der Versicherte (70% vom Bruttolohn)
+
+
 ### Mutterschaftshilfe
 
 Die Mutterschaftshilfe umfasst u.a. 
