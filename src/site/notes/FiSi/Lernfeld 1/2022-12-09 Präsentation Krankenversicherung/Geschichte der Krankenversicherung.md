@@ -16,4 +16,4 @@
 - Das Sozialgesetzbuch fünftes Buch (SGB V), das am 1. Januar 1989 in Kraft getreten ist, bildet die Grundlage für die gesetzliche Krankenversicherung
 
 - [ ] Entwicklung der Ersatzkasse?
-- [ ] Entwicklung der Knappschaft?
+- [ ] Entwicklung der Knappschaft Bahn-See?
