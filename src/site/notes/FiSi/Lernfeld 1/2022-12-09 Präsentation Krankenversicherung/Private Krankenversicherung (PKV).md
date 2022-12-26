@@ -28,4 +28,4 @@ Vollversicherung: Absicherung der gesamten Krankheitskosten - also für ambulant
 
 Teilversicherung: Absicherung eines variablen Teils der Krankheitskosten, beispielsweise nur der stationären Behandlung
 
-[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|Zusatzversicherung]] Absicherung zusätzlicher Risiken ergänzend zur Gesetzlichen Krankenversicherung (GKV), z.B. Auslandskrankenversicherung oder Zahnzusatzversicherung.
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|Zusatzversicherung]]: Absicherung zusätzlicher Risiken ergänzend zur Gesetzlichen Krankenversicherung (GKV), z.B. Auslandskrankenversicherung oder Zahnzusatzversicherung.
