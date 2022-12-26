@@ -14,7 +14,7 @@ In Deutschland ist eine private Krankenversicherung ergänzend zu oder anstelle 
 
 Maßgeblich für die Berechnung der Versicherungsbeiträge ist das [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Äquivalenzprinzip\|Äquivalenzprinzip]]. 
 
-In der PKV existiert eine [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Selbstbeteiligung\|Selbsterhalt]], d.h. die Versicherten müssen einen Teil der Behandlungskosten selbst tragen.
+In der PKV existiert ein [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Selbstbeteiligung\|Selbsterhalt]], d.h. die Versicherten müssen einen Teil der Behandlungskosten selbst tragen.
 
 Die private Krankenversicherung, kurz PKV, ist eine privatrechtlich organisierte Form der Krankenversicherung, welche für den Versicherten die Kosten für die Vorbeugung, Erkennung und Behandlung von Erkrankungen oder anderen medizinisch relevanten Vorkommnissen übernimmt, bzw. ihm diese Kosten erstattet (Kostenerstattungsprinzip).
 Sie bietet in der Regel eine größere Auswahl an Leistungen an, ist im Vergleich zu den Beiträgen der GKV jedoch höher.
