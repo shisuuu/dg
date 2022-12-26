@@ -12,4 +12,3 @@ Lösungen um die Krankenversicherung in Zukufnt finanziell tragfähiger zu gesta
 	- kostenlose Impfungen
 	- kostenlose gesundheitsförderne Angebote wie Sportkurse oder Ernährungsberatung
 - Einführung von [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Selbstbeteiligung\| Selbstbehalten oder Zuzahlungen]] für bestimmte Leistungen können dazu beitragen, dass Menschen bewusster mit ihrem GEsundheitsverhalten umgehen und weniger Arztbesuche in Anspruch nehmen und dementsprechend kann Druck auf die Krankenversicherung verringert werden
-- 
