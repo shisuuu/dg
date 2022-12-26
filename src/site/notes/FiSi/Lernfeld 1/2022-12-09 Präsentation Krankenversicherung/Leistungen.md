@@ -41,7 +41,7 @@ Weitere Leistungen der gesetzlichen Krankenkassen bei Mutterschaft umfassen die
 
 ### Rehabilitation
 
-Die Rehabilitation umfasst im Zusammenhang mit der gesetzlichen Kraneknversicherung medizinische, therapeutische und berufliche Maßnahmen, mit dem Ziel, die Gesundheit und Arbeitsfähigkeit einer Person zu verbessern oder wiederherzustellen.
+Die medizinische Rehabilitation, dessen Hauptträger die [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] ist, umfasst medizinische, therapeutische und berufliche Maßnahmen, mit dem Ziel, die Gesundheit und Arbeitsfähigkeit einer Person zu verbessern oder wiederherzustellen.
 
 - in Deutschland sind die Leistungen der gesetzlichen Krankenversicherung im Bereich Rehabilitation im Sozialgesetzbuch V geregelt
 - Krankenkassen übernehmen die vollen Kosten der Maßnahme
