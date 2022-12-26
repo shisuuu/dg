@@ -20,7 +20,7 @@ ToDo:
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\|Leistungen]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
-- [ ] Beiträge
+- [ ] [[Scratchbox/Beiträge\|Beiträge]]
 
 
 ## Buchnotizen
