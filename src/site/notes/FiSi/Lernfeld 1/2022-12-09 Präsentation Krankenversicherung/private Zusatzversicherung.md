@@ -10,4 +10,4 @@
 - für die Erweiterung der gesetzlichen Basisversorgung etwa um ein Einzelbettzimmer im KH oder die Behandlung bei Chefärzten
 
 - gute medizinische Versorgung nach individuellen Bedürfnissen
-- Zusatzkosten wie Medizin, Vorsorge, Chefarztbehandlungen aus dem Ausland auffangen
+- um Zusatzkosten wie Medizin, Vorsorge, Chefarztbehandlungen aus dem Ausland aufzufangen
