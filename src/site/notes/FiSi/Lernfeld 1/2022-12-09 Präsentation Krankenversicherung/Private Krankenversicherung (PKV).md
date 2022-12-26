@@ -6,7 +6,7 @@
 ## Die private Krankenversicherung
 
 Private Krankenversicherungen sind privatwirtschaftliche Unternehmen, die Krankenversicherungen anbieten.
-Anders als bei der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] kommt das Versicherungsverhältnis nicht durch kraft des Gesetzes, sondern durch einen privatrechtlichen Vertrag zustande.
+Anders als bei der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] kommt das Versicherungsverhältnis nicht durch Kraft des Gesetzes, sondern durch einen privatrechtlichen Vertrag zustande.
 
 - für Versicherte mit höherem Einkommen oder die selbstständig sind
 
@@ -28,4 +28,4 @@ Vollversicherung: Absicherung der gesamten Krankheitskosten - also für ambulant
 
 Teilversicherung: Absicherung eines variablen Teils der Krankheitskosten, beispielsweise nur der stationären Behandlung
 
-Zusatzversicherung: Absicherung zusätzlicher Risiken ergänzend zur Gesetzlichen Krankenversicherung (GKV), z.B. Auslandskrankenversicherung oder Zahnzusatzversicherung ^0ef231
+Zusatzversicherung: Absicherung zusätzlicher Risiken ergänzend zur Gesetzlichen Krankenversicherung (GKV), z.B. Auslandskrankenversicherung oder Zahnzusatzversicherung.
