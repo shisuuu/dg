@@ -35,7 +35,7 @@ Ein Versicherter bei einer gesetzlichen Krankenversicherung kann unter folgenden
 ### [Wer kann die Krankenkasse wechseln](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkassenwechsel/)?
 
 - erfordert mindestens 12 Monate Mitgliedschaft bei der alten Krankenkasse 
-- bei Erhöhung des Zusatzbeitrags durch die eigene Krankenkasse besteht die Möglichkeit für den Versicherten, den Krankenkassen-Wechsel auch innerhalb der zwölfmonatigen Bindefrist zu nutzen
+- bei Erhöhung des [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Zusatzbeitrag\|Zusatzbeitrags]] durch die eigene Krankenkasse besteht die Möglichkeit für den Versicherten, den Krankenkassen-Wechsel auch innerhalb der zwölfmonatigen Bindefrist zu nutzen
 - Familienversicherte können _jederzeit_ bei Eintritt der Versicherungspflicht wechseln
 
 ### Bilder
