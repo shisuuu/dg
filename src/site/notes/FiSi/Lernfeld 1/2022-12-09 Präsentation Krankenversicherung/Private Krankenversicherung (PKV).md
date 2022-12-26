@@ -19,7 +19,7 @@ In der PKV existiert eine [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenvers
 Die private Krankenversicherung, kurz PKV, ist eine privatrechtlich organisierte Form der Krankenversicherung, welche für den Versicherten die Kosten für die Vorbeugung, Erkennung und Behandlung von Erkrankungen oder anderen medizinisch relevanten Vorkommnissen übernimmt, bzw. ihm diese Kosten erstattet (Kostenerstattungsprinzip).
 Sie bietet in der Regel eine größere Auswahl an Leistungen an, ist im Vergleich zu den Beiträgen der GKV jedoch höher.
 
-- Leistungen können individuell angepasst werden
+- Leistungen können individuell ausgewählt und angepass werden
 - klassische Zusatzleistungen wären Chefarztbehandlung, Unterbringung im Zweibett- oder auch Einzelzimmer bei Krankenhausaufenthalten und hochwertiger Zahnersatz
 
 Die private Krankenversicherung ist in verschiedenen Formen verfügbar:
