@@ -12,7 +12,7 @@
 
 
 
-Träger der gesetzlichen Krankenversicherung sind die **gesetzlichen Krankenkassen**
+Träger der [[GKV \| gesetzlichen Krankenversicherung]] sind die **gesetzlichen Krankenkassen**
 
 Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung.
 
