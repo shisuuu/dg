@@ -16,7 +16,8 @@ ToDo:
 - [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\|Leistungen]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
-- [ ] Probleme (aktuell & zukünftig)
+- [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
+- [ ] [[Scratchbox/Lösungen\|Lösungen]] (mögliche)
 - [ ] Beiträge
 - [ ] Zusatzleistungen (PKV)
 
