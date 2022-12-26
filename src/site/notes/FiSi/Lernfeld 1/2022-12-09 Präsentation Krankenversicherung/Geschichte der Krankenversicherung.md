@@ -3,6 +3,8 @@
 ---
 
 
+## Geschichte der Krankenversicherung
+
 - Reichskanzler Otto von Bismarck erließ am 15. Juni 1883 / [31. Mai 1883](https://www1.wdr.de/stichtag/stichtag3328.html) das Krankenversicherungsgesetz.
 	- zu diesem Zeitpunkt trugen Arbeitgeber ein Drittel und Arbeitnehmer in Handwerks- und Gewerbebetrieben sowie Industriearbeiter, zwei Drittel des Krankenversicherungsbeitrags
 
