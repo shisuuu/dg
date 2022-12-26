@@ -21,7 +21,6 @@ ToDo:
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
 - [ ] Beiträge
-- [ ] Zusatzleistungen (PKV)
 
 
 ## Buchnotizen
