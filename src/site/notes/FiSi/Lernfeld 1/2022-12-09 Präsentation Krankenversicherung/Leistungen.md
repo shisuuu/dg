@@ -22,7 +22,7 @@ Leistungen wie Akupunktur oder Osteopathie, die nicht von allen Krankenkassen an
 
 Bei Krankheiten / Unfällen die außerhalb der Arbeitszeit geschehen:
 - der Arbeitgeber zahlt für die ersten sechs Wochen das volle Gehalt
-- nach 6 bis 72 Wochen wird Krankengeld erhält der Versicherte (70% vom Bruttolohn)
+- nach 6 bis 72 Wochen erhält der Versicherte Krankengeld (70% vom Bruttolohn)
 
 
 ### Mutterschaftshilfe
