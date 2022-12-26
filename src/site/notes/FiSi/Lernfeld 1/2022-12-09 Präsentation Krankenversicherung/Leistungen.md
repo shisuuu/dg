@@ -35,6 +35,11 @@ Weitere Leistungen der gesetzlichen Krankenkassen bei Mutterschaft umfassen die
 - häusliche Pflege
 - Haushaltshilfe
 
+### Familienhilfe
+
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]]
+
+
 ### [SGB V Leistungsarten](https://www.sozialgesetzbuch-sgb.de/sgbv/11.html)
 
 § 11 Leistungsarten
