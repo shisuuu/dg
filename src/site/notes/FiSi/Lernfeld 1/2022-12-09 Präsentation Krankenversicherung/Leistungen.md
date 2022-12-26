@@ -42,5 +42,5 @@ Weitere Leistungen der gesetzlichen Krankenkassen bei Mutterschaft umfassen die
 1. bei Schwangerschaft und Mutterschaft (§§ 24c bis 24i),
 2. zur Verhütung von Krankheiten und von deren Verschlimmerung sowie zur Empfängnisverhütung, bei Sterilisation und bei Schwangerschaftsabbruch (§§ 20 bis 24b),
 3. zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten (§§ 25 und 26),
-4.zur Behandlung einer Krankheit (§§ 27 bis 52),
-5.des Persönlichen Budgets nach § 29 des Neunten Buches.
+4. zur Behandlung einer Krankheit (§§ 27 bis 52),
+5. des Persönlichen Budgets nach § 29 des Neunten Buches.
