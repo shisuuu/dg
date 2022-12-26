@@ -20,7 +20,7 @@
 - die gesetzliche Krankenversicherung kannte bei ihrer Einführung zunächst keine allgemeine Leistungspflicht für Familienmitglieder, abgesehen von der sogenannten *Wochenhilfe* (Kosten der Entbindung), die Ehefrauen und Töchtern gewährt wurden, die selbst keine eigenen Krankenversicherungsschutz hatten
 
 - Die Familienhilfe wurde durch Notverordnung des Kabinetts Brüning I vom 26. Juli 1930 verpflichtend für alle Krankenkassen eingeführt
-- Die Familienhilfe deckte bis 1975 viele wichtige Bereiche der Leistungen ab, sondern nur drei bestimmte Leistungen:
+- Die Familienhilfe deckte bis 1975 nur drei bestimmte Leistungen ab:
 	- Hilfe bei Krankheit (§205 RVO)
 	- Mutterschaftshilfe (§205a RVO)
 	- Sterbegeld (§205b RVO)
