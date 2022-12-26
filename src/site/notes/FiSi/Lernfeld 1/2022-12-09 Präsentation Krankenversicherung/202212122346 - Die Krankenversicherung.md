@@ -12,8 +12,6 @@
 		 - Die Wahl hängt u.a. vom Einkommen, Beruf und individuelle Bedürfnisse ab
 - der aktuelle Beitrag liegt bei $14,6\%$
 
-ToDo:
-
 - [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] 
 - [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
 - [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
@@ -23,7 +21,7 @@ ToDo:
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
 
 
-## Buchnotizen
+# Buchnotizen
 
 > Infos sind aus dem Buch entnommen // unvollständig
 
