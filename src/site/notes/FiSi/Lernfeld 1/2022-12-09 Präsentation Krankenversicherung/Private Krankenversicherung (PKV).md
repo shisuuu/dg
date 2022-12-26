@@ -16,7 +16,7 @@ Maßgeblich für die Berechnung der Versicherungsbeiträge ist das [[FiSi/Lernfe
 
 In der PKV existiert ein [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Selbstbeteiligung\|Selbsterhalt]], d.h. die Versicherten müssen einen Teil der Behandlungskosten selbst tragen.
 
-Die private Krankenversicherung, kurz PKV, ist eine privatrechtlich organisierte Form der Krankenversicherung, welche für den Versicherten die Kosten für die Vorbeugung, Erkennung und Behandlung von Erkrankungen oder anderen medizinisch relevanten Vorkommnissen übernimmt, bzw. ihm diese Kosten erstattet (Kostenerstattungsprinzip).
+Die private Krankenversicherung, kurz PKV, ist eine privatrechtlich organisierte Form der Krankenversicherung, welche für den Versicherten die Kosten für die Vorbeugung, Erkennung und Behandlung von Erkrankungen oder anderen medizinisch relevanten Vorkommnissen übernimmt, bzw. ihm diese Kosten erstattet ([[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Kostenerstattungsprinzip\|Kostenerstattungsprinzip]]).
 Sie bietet in der Regel eine größere Auswahl an Leistungen an, ist im Vergleich zu den Beiträgen der GKV jedoch höher.
 
 - Leistungen können individuell ausgewählt und angepasst werden
