@@ -5,7 +5,7 @@
 
 ## Versicherungsträger
 
-> [!Definition]-
+> **Definition**
 > öffentlich-rechtliche Körperschaften, die die Aufgabe haben, die Sozialversicherung zu vollziehen, d. h. die notwendigen Mittel (Beiträge) einzuziehen und die gesetzlich vorgeschriebenen Leistungen zu gewähren. 
 > Sie verwalten sich selbst durch eigene Organe (hauptamtlicher Vorstand, ehrenamtlicher Verwaltungsrat). 
 > Diese Organe der Selbstverwaltung setzen sich zur Hälfte aus Vertretern der Versicherten und der Arbeitgeber zusammen. 
