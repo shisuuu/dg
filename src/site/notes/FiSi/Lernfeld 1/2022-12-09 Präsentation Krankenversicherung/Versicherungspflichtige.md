@@ -14,4 +14,4 @@ Auch Personen, die sich in einer beruflichen Weiterbildung befinden oder eine fi
 Von der GKV ausgeschlossen sind zum Beispiel Selbstständige oder Freiberufler, die sich privat krankenversichern oder [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Freiwillige gesetzliche Krankenversicherung\|freiwillig gesetzlich]] versichern müssen.
 
 Es ist möglich gesetzlich krankenversichert zu sein und dabei eine private Krankenversicherung abzuschließen.
-So hat der Versicherte eine größere Auswahl an [[Zusatzleistung\|Zusatzleistungen]] oder allgemein einer besseren Leistung.
+So hat der Versicherte eine größere Auswahl an [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Private Krankenversicherung (PKV)#^0ef231\|Zusatzleistungen]] oder allgemein einer besseren Leistung.
