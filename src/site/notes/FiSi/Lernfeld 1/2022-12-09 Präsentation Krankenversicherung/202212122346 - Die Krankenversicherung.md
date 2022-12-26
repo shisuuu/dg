@@ -12,9 +12,12 @@
 		 - Die Wahl hängt u.a. vom Einkommen, Beruf und individuelle Bedürfnisse ab
 - der aktuelle Beitrag liegt bei $14,6\%$
 
-- [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] 
-- [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
-- [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] 
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
+
+==ToDo==
+
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\|Leistungen]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
