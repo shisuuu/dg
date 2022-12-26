@@ -14,7 +14,7 @@ ToDo:
 
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]]
 - [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
-- [ ] Versicherungspflichtige
+- [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
 - [ ] Leistungen (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 - [ ] Probleme (aktuell & zukünftig)
 - [ ] Beiträge
