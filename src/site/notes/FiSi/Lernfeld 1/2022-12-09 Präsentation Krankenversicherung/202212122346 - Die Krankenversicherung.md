@@ -10,7 +10,6 @@
 - Grundsätzlich sind alle Personen, die in Deutschland wohnen, versicherungspflichtig
 	- dabei wird zwischen der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\| gesetzlichen Krankenversicherung]] (Pflichtversicherung) und der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Private Krankenversicherung (PKV)\|privaten Krankenversicherung]] (Individualversicherung) unterschieden 
 		 - Die Wahl hängt u.a. vom Einkommen, Beruf und individuelle Bedürfnisse ab
-- der aktuelle Beitrag liegt bei $14,6\%$
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
