@@ -11,6 +11,7 @@
 - Leistungsgewährung erfolgt nach dem medizinischen Bedarf
 
 - Beiträge werden solidarisch, also entsprechend der finanziellen Leistungsfähigkeit der Versicherten aufgebracht ([[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Solidaritätsprinzip\|Solidaritätsprinzip]])
+- GKV-Beitrag ist einkommensabhängig
 - Leistungen werden nach dem [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Sachleistungsprinzip\|Sachleistungsprinzip]] erbracht
 	- Gewährleistung durch Abschluss von Verträgen zwischen Krankenkassen und Leistungserbringern (medizinische Fachkräfte wie Ärzte, Zahnärzte..)
 
