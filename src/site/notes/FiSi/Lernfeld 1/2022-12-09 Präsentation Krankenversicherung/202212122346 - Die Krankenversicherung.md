@@ -6,14 +6,14 @@
 # Die Krankenversicherung
 
 - Grundsätzlich sind alle Personen, die in Deutschland wohnen, versicherungspflichtig
-	- dabei wird zwischen der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\| gesetzlichen Krankenversicherung]] (Pflichtversicherung) und der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/PKV\| privaten Krankenversicherung]] (Individualversicherung) unterschieden
+	- dabei wird zwischen der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\| gesetzlichen Krankenversicherung]] (Pflichtversicherung) und der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/PKV\|privaten Krankenversicherung]] (Individualversicherung) unterschieden
 		 - Die Wahl hängt u.a. vom Einkommen, Beruf und individuelle Bedürfnisse ab
 - der aktuelle Beitrag liegt bei $14,6\%$
 
 ToDo:
 
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]]
-- [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
+- [x] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
 - [ ] Versicherungspflichtige
 - [ ] Leistungen (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 - [ ] Probleme (aktuell & zukünftig)
