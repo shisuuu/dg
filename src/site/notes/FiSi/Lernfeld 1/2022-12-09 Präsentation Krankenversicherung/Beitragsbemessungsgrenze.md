@@ -3,8 +3,18 @@
 ---
 
 
-https://www.tk.de/firmenkunden/versicherung/beitraege-faq/zahlen-und-grenzwerte/beitragsbemessungsgrenzen-2033026
 
-Die Beitragsbemessungsgrenze ist der Betrag bis zu dem vom sozialversicherungspflichtigen Entgelt Beiträge für die verschiedenen Bereiche der Sozialversicherung berechnet und abgeführt werden. Es gibt jeweils unterschiedliche Beitragsbemessungsgrenzen für die Kranken- und Pflegeversicherung sowie für die Renten- und Arbeitslosenversicherung. Als Beispiel liegt die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung für 2018 bei monatlich 4.425,00 EUR (bundesweit). Bei einem sozialversicherungspflichtigen Brutto von z.B. 5.000 EUR werden nur von 4.425,00 EUR Beiträge zur Sozialversicherung berechnet.
+### Beitragsbemessungsgrenze
 
-Die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung liegt 2022 bei 58.050 Euro jährlich beziehungsweise 4.837,50 Euro monatlich. In der Renten- und Arbeitslosenversicherung sind es 84.600 Euro jährlich (7.050 Euro monatlich) im Rechtskreis West und 81.000 Euro jährlich (6.750 Euro monatlich) im Rechtskreis Ost. Die Werte für 2023 entnehmen Sie bitte der Übersicht.
+Die Beitragsbemessungsgrenze, eine Rechengröße im deutschen Sozialversicherungsrecht, bestimmt bis zu welchem Betrag die beitragspflichjtigen Einnahmen von gesetzlich Versicherten für die Beitragsberechnung der gesetzlichen Sozialversicherung herangezogen werden
+
+- die Höhe der BBG hat Auswirkungen auf die Höhe der Sozialversicherungsbeiträge
+- wird von den Sozialversicherungsträgern festgelegt
+- Die aktuelle BBG (2022) beträgt 6900€/Monat
+
+Grundsätzlich gilt:
+
+Bis zur Beitragsbemessungsgrenze ist das Einkommen eines Beschäftigten beitragspflichtig, alles darüber ist beitragsfrei. 
+Bis zur Versicherungspflichtgrenze müssen Beschäftigte gesetzlich krankenversichert sein. Wer über diesen Betrag hinaus verdient, kann sich privat krankenversichern lassen. 
+
+https://www.bundesregierung.de/breg-de/suche/beitragsbemessungsgrenzen-2023-2133570#:~:text=%C3%84nderungen%20in%20der%20Rentenversicherung&text=Januar%202023%20wird%20die%20Beitragsbemessungsgrenze,2022%3A%207.050%20Euro
