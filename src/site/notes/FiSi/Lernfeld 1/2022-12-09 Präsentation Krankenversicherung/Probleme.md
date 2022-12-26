@@ -7,5 +7,5 @@
 
 - stets steigender Beitragssatz der GKV
 	- Belastung für die Versicherten
-- Je älter die Bevölkerung ist, desto mehr Geld muss für die Versorgung dieser Menschen aufgebracht werden
+- Je älter die Bevölkerung, desto mehr Geld muss für die Versorgung dieser Menschen aufgebracht werden
 	- hat wiederum Auswirkungen auf den Beitragssatz
