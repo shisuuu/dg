@@ -14,7 +14,7 @@
 
 Träger der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|gesetzlichen Krankenversicherung]] sind die **gesetzlichen Krankenkassen**
 
-Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung.
+Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit [[Selbstverwaltungsgrundsatz \| Selbstverwaltung]].
 
 Die Krankenkasse kommt für die gesamte medizinische Versorgung auf.
 
