@@ -14,13 +14,13 @@
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]]
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\|Leistungen]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
 
 ==ToDo==
 
-- [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\|Leistungen]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
-- [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
 - [ ] [Bürgerversicherung, das Sozialversicherungsmodell der Zukunft?](https://de.wikipedia.org/wiki/B%C3%BCrgerversicherung)
 
 # Buchnotizen
