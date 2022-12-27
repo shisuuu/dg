@@ -16,6 +16,8 @@ Träger der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|
 
 Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung.
 
+Die Krankenkasse kommt für die gesamte medizinische Versorgung auf.
+
 6 Krankenkassenarten existieren, die _bundesweit_ oder _regional_ organisiert sind:
 
 - Betriebskrankenkassen (regional und bundesweit)
