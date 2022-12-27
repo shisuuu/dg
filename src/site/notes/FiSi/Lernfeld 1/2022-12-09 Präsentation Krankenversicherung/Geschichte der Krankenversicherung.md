@@ -24,7 +24,7 @@
 	- Hilfe bei Krankheit (§205 RVO)
 	- Mutterschaftshilfe (§205a RVO)
 	- Sterbegeld (§205b RVO)
-	- Für Arzneimittel musste aus der eigener Tasche gezahlt werden
+	- Für Arzneimittel musste aus der eigenen Tasche gezahlt werden
 
 - [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] wurde in der heutigen Form mit der Einführung des SGB V im Jahre 1989 eingeführt
 
