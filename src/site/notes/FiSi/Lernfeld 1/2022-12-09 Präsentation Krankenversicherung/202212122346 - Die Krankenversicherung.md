@@ -21,7 +21,7 @@
 
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
-- [ ] [Bürgerversicherung, das Sozialversicherungsmodell der Zukunft?](https://de.wikipedia.org/wiki/B%C3%BCrgerversicherung)
+- [ ] [Bürgerversicherung](https://de.wikipedia.org/wiki/B%C3%BCrgerversicherung)
 
 # Buchnotizen
 
