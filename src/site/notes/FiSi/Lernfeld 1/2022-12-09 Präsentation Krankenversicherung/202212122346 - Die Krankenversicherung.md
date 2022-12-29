@@ -21,6 +21,8 @@
 
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Probleme\|Probleme]] (aktuell & zukünftig)
 - [ ] [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Lösungen\|Lösungen]] (mögliche)
+- [ ] SGB V: Bestimmungen der GKV
+- [ ] Kranken(zahn-)ärztliche Vereinigung
 - [ ] [Bürgerversicherung](https://de.wikipedia.org/wiki/B%C3%BCrgerversicherung)
 
 # Buchnotizen
