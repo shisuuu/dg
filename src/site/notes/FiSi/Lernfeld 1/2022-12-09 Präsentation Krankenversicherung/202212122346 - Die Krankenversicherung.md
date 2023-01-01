@@ -15,7 +15,7 @@
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
 
-[[Leistungen1 & 2\|Leistungen1 & 2]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
 
