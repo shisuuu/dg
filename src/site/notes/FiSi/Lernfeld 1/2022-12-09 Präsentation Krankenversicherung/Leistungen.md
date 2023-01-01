@@ -5,6 +5,8 @@
 
 ## Leistungen 
 
+https://www.krankenkasseninfo.de/leistungen/gesetzliche-leistungen/
+
 Die gesetzliche Krankenversicherung deckt folgende Leistungen eines Versicherten ab:
 
 - Arztbesuche und Behandlungen durch Ärzte und Zahnärzte
