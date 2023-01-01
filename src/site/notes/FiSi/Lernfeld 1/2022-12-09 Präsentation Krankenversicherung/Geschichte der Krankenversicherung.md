@@ -30,3 +30,57 @@
 
 - [ ] Entwicklung der Ersatzkasse?
 - [ ] Entwicklung der Knappschaft Bahn-See?
+
+## Sortieren, ergänzen, formulieren, ändern
+
+### Chat-GPT
+
+Die Reichsversicherungsordnung (RVO) war ein deutsches Gesetz, das die gesetzliche Krankenversicherung (GKV) regelte. Es wurde 1927 verabschiedet und war bis zum Ende der Nazi-Diktatur im Jahr 1945 in Kraft.
+
+
+> https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
+> Die Jahre 1933 bis 1945
+> In den Jahren 1933 bis 1945, also der Zeit des Nationalsozialismus, wurde die Selbstverwaltung der Gesetzlichen Krankenversicherung abgeschafft. Dadurch, dass den Krankenversicherungsträgern staatlich anerkannte Leiter zugewiesen wurde, wurde die Organisation, Finanzierung und Aufsicht fundamental geändert.
+> Ab 1941 wurde jedoch die bis heute vorhandene Krankenversicherung der Rentner (KVdR) eingeführt.
+	
+Die RVO entstand aus dem Versicherungsgesetz von 1909, das die Gründung der GKV vorsah. Im Laufe der Zeit wurde das Gesetz mehrfach überarbeitet und angepasst, um den Bedürfnissen der Versicherten besser gerecht zu werden.
+
+Während der Nazi-Herrschaft wurde die RVO jedoch zu einem Instrument der Propaganda und des Kontrollmechanismus der Regierung. Krankenversicherte wurden nach Rasse, Geschlecht und politischer Zugehörigkeit eingestuft und die Leistungen der GKV wurden eingeschränkt oder ganz verweigert.
+
+Nach dem Zweiten Weltkrieg wurde die RVO durch das Sozialgesetzbuch V ersetzt, das die GKV in der Bundesrepublik Deutschland regelt.
+
+> Die Jahre 1945 bis 1969
+> Nachdem die Bundesrepublik Deutschland gegründet wurde, wurde im Jahr 1952 auch die Selbstverwaltung der Krankenkassen wieder eingeführt bzw. wieder hergestellt.
+
+> Ab 1970
+> Die Gesetzliche Krankenversicherung wurde stets weiterentwickelt und den gesellschaftlichen, politischen und wirtschaftlichen Änderungen angepasst. Daher sind die Jahre ab 1970 durch Reformmaßnahmen geprägt.
+
+> Mit dem Jahr 1970 wurde das Lohnfortzahlungsgesetz eingeführt. Dieses Gesetz regelte erstmals eine Pflicht zur Lohnfortzahlung für Arbeitgeber im Krankheitsfalle und stellte Arbeiter und Angestellte hinsichtlich gleich.
+
+> In den 70er Jahren sorgte der wirtschaftliche Aufschwung zu Verbesserungen des Leistungskatalogs der Gesetzlichen Krankenversicherung. So wurde unter anderem das Leistungsverbesserungsgesetz und Rehabilitationsgesetz eingeführt und die Versicherungspflicht auf selbstständige Landwirte, Studenten, Behinderte in geschützten Einrichtungen und auf Künstler und Publizisten ausgeweitet.
+
+Es gibt verschiedene Besonderheiten der Krankenversicherung im Sozialversicherungswesen, darunter:
+
+1. Versicherungspflicht: In Deutschland ist jeder Bürger verpflichtet, sich krankenversichern zu lassen. Dies kann entweder über eine gesetzliche Krankenversicherung (GKV) oder eine private Krankenversicherung (PKV) erfolgen.
+
+2. Leistungen: Die GKV bietet einen festgelegten Leistungskatalog an, der in der Regel alle medizinischen Leistungen abdeckt, die für die Behandlung von Krankheiten und Verletzungen erforderlich sind. Die PKV hingegen bietet individuell anpassbare Leistungspakete an, die je nach Tarif unterschiedlich umfangreich sein können.
+
+3. Beiträge: Die Höhe der Beiträge für die GKV wird jedes Jahr neu festgelegt und richtet sich nach dem Einkommen des Versicherten. Die Beiträge für die PKV hingegen sind in der Regel höher und können individuell vereinbart werden.
+
+4. Selbstbeteiligung: In der GKV gibt es in der Regel eine Selbstbeteiligung, die vom Versicherten bei jedem Arztbesuch oder Krankenhausaufenthalt gezahlt werden muss. In der PKV kann die Selbstbeteiligung individuell vereinbart werden und kann somit auch höher oder niedriger ausfallen als in der GKV.
+
+5. Zuschüsse: In manchen Fällen können Versicherte von der GKV oder der PKV Zuschüsse für bestimmte medizinische Leistungen erhalten, beispielsweise für die Anschaffung von Hörgeräten oder Zahnersatz. 
+
+### Aus dem WWW
+
+https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
+
+Der Leistungskatalog sah damals folgende Leistungen vor:
+Freie ärztliche Behandlung
+Freie Arzneimittel
+Kleinere Heilmittel
+Im Falle der Arbeitsunfähigkeit Krankengeld ab 3. Tag von mindestens 50 Prozent des Lohnes (Höchstdauer 26 Wochen)
+Sterbegeld in Höhe 20facher Lohn
+Wöchnerinnenunterstützung für vier Wochen nach Niederkunft
+Die Krankenversicherung wurde durch Ortskrankenkassen, Betriebskrankenkassen, Baukrankenkassen, Innungskrankenkassen, Knappschaftskassen und Hilfskassen durchgeführt.
+
