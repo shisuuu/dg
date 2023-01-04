@@ -5,17 +5,51 @@
 
 # Geschichte der Krankenversicherung
 
-- Reichskanzler Otto von Bismarck erließ am 15. Juni 1883 / [31. Mai 1883](https://www1.wdr.de/stichtag/stichtag3328.html) das Krankenversicherungsgesetz.
-	- zu diesem Zeitpunkt trugen Arbeitgeber ein Drittel und Arbeitnehmer in Handwerks- und Gewerbebetrieben sowie Industriearbeiter, zwei Drittel des Krankenversicherungsbeitrags
+## Zeitstrahl
+Neben anderen Versicherungen in der Sozialversicherung..
 
-- zu Beginn der GKV waren etwa 10% der Bevölkerung pflichtversichert
-- heute sind rund 88% der Bevölkerung pflichtversichert
+15. Juni 1883: Geburtsstunde der Krankenversicherung
+Auf Forderungen der Arbeiterbewegung verabschiedete der Deutsche Reichstag das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
 
-- festgelegt seit 1914 in der Reichsversicherungsordnung (RVO)
-		- die RVO wurde seit 1975 mit der Einführung des Sozialgesetzbuches (SGB I) schrittweise abgelöst
-- Das Sozialgesetzbuch fünftes Buch (SGB V), das am 1. Januar 1989 in Kraft getreten ist, bildet die Grundlage für die gesetzliche Krankenversicherung
+- wichtiger Meilenstein in der Sozialgeschichte 
+- weitreichende Auswirkungen auf die Gesundheitsversorgung der Bevölkerung
+- Grundlage für die Entwicklung von Krankenversicherungssystemen in anderen Ländern 
+19. Juli 1911: Einführung der Reichsversicherungsordnung
+- Weiterentwicklung des Krankenversicherungsgesetzes von 1883
+- Einführung der Krankenversicherungsträger durch die RVO, die als Selbstverwaltungsorganisationen die Leistungen der gesetzlichen Krankenversicherung erbrachten
+- zweites Gesetzbuch enthält das Recht zur Krankenversicherung
+- bis 1992 die Grundlage des deutschen Sozialrechts
 
-## Wissenswertes
+1933: Beginn der Zeit des Nationalsozialismus
+- Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
+- Abschaffung der Selbstverwaltung der Krankenversicherung
+
+Jeder Deutsche hat die Pflicht, so zu leben, dass er gesund und arbeitsfähig bleibt.
+
+Krankheit ist ein Versagen. Wer krankheitshalber häufig am Arbeitsplatz fehlt, ist ein schlechter Kranker.
+
+1941: Übernahme aller Rentner in die Krankenversicherung
+
+1949: Nach der Gründung der BRD wird die Selbstverwaltung der Krankenversicherung 1951 wiederhergestellt 
+
+1970: 
+- (durch wirtschaftlichen Aufschwung) Verbesserung des Leitungskatalogs der Krankenversicherung
+- Einführung des Leistungsverbesserungsgesetzes und des Rehabilitationsgesetzes        
+
+1975: Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
+- RVO war durch viele Zusätze und Ergänzungen unübersichtlich
+- SGB soll RVO in vielen Bereichen ersetzen
+- Enthält Regelungen für die verschiedenen Zweige der Sozialversicherung, die in der Reichsversicherungsordnung festgelegt waren
+
+1988: Einführung der Regelungen der Krankenversicherung nach SGB V.
+Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GRG) integriert.
+- Einführung von weiteren Leistungen zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit
+- Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten usw.
+
+Heute umfasst das deutsche Krankenversicherungssystem neben der GKV auch die PKV.
+Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Versicherungsunternehmen angeboten wird.
+
+### Recherche Überbleibsel aus dem WWW
 
 - die gesetzliche Krankenversicherung kannte bei ihrer Einführung zunächst keine allgemeine Leistungspflicht für Familienmitglieder, abgesehen von der sogenannten *Wochenhilfe* (Kosten der Entbindung), die Ehefrauen und Töchtern gewährt wurden, die selbst keine eigenen Krankenversicherungsschutz hatten
 
@@ -28,50 +62,6 @@
 
 - [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] wurde in der heutigen Form mit der Einführung des SGB V im Jahre 1989 eingeführt
 
-- [ ] Entwicklung der Ersatzkasse?
-- [ ] Entwicklung der Knappschaft Bahn-See?
-
-## Sortieren, ergänzen, formulieren, ändern
-
-### Chat-GPT
-
-Die Reichsversicherungsordnung (RVO) war ein deutsches Gesetz, das die gesetzliche Krankenversicherung (GKV) regelte. Es wurde 1927 verabschiedet und war bis zum Ende der Nazi-Diktatur im Jahr 1945 in Kraft.
-
-
-> https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
-> Die Jahre 1933 bis 1945
-> In den Jahren 1933 bis 1945, also der Zeit des Nationalsozialismus, wurde die Selbstverwaltung der Gesetzlichen Krankenversicherung abgeschafft. Dadurch, dass den Krankenversicherungsträgern staatlich anerkannte Leiter zugewiesen wurde, wurde die Organisation, Finanzierung und Aufsicht fundamental geändert.
-> Ab 1941 wurde jedoch die bis heute vorhandene Krankenversicherung der Rentner (KVdR) eingeführt.
-	
-Die RVO entstand aus dem Versicherungsgesetz von 1909, das die Gründung der GKV vorsah. Im Laufe der Zeit wurde das Gesetz mehrfach überarbeitet und angepasst, um den Bedürfnissen der Versicherten besser gerecht zu werden.
-
-Während der Nazi-Herrschaft wurde die RVO jedoch zu einem Instrument der Propaganda und des Kontrollmechanismus der Regierung. Krankenversicherte wurden nach Rasse, Geschlecht und politischer Zugehörigkeit eingestuft und die Leistungen der GKV wurden eingeschränkt oder ganz verweigert.
-
-Nach dem Zweiten Weltkrieg wurde die RVO durch das Sozialgesetzbuch V ersetzt, das die GKV in der Bundesrepublik Deutschland regelt.
-
-> Die Jahre 1945 bis 1969
-> Nachdem die Bundesrepublik Deutschland gegründet wurde, wurde im Jahr 1952 auch die Selbstverwaltung der Krankenkassen wieder eingeführt bzw. wieder hergestellt.
-
-> Ab 1970
-> Die Gesetzliche Krankenversicherung wurde stets weiterentwickelt und den gesellschaftlichen, politischen und wirtschaftlichen Änderungen angepasst. Daher sind die Jahre ab 1970 durch Reformmaßnahmen geprägt.
-
-> Mit dem Jahr 1970 wurde das Lohnfortzahlungsgesetz eingeführt. Dieses Gesetz regelte erstmals eine Pflicht zur Lohnfortzahlung für Arbeitgeber im Krankheitsfalle und stellte Arbeiter und Angestellte hinsichtlich gleich.
-
-> In den 70er Jahren sorgte der wirtschaftliche Aufschwung zu Verbesserungen des Leistungskatalogs der Gesetzlichen Krankenversicherung. So wurde unter anderem das Leistungsverbesserungsgesetz und Rehabilitationsgesetz eingeführt und die Versicherungspflicht auf selbstständige Landwirte, Studenten, Behinderte in geschützten Einrichtungen und auf Künstler und Publizisten ausgeweitet.
-
-Es gibt verschiedene Besonderheiten der Krankenversicherung im Sozialversicherungswesen, darunter:
-
-1. Versicherungspflicht: In Deutschland ist jeder Bürger verpflichtet, sich krankenversichern zu lassen. Dies kann entweder über eine gesetzliche Krankenversicherung (GKV) oder eine private Krankenversicherung (PKV) erfolgen.
-
-2. Leistungen: Die GKV bietet einen festgelegten Leistungskatalog an, der in der Regel alle medizinischen Leistungen abdeckt, die für die Behandlung von Krankheiten und Verletzungen erforderlich sind. Die PKV hingegen bietet individuell anpassbare Leistungspakete an, die je nach Tarif unterschiedlich umfangreich sein können.
-
-3. Beiträge: Die Höhe der Beiträge für die GKV wird jedes Jahr neu festgelegt und richtet sich nach dem Einkommen des Versicherten. Die Beiträge für die PKV hingegen sind in der Regel höher und können individuell vereinbart werden.
-
-4. Selbstbeteiligung: In der GKV gibt es in der Regel eine Selbstbeteiligung, die vom Versicherten bei jedem Arztbesuch oder Krankenhausaufenthalt gezahlt werden muss. In der PKV kann die Selbstbeteiligung individuell vereinbart werden und kann somit auch höher oder niedriger ausfallen als in der GKV.
-
-5. Zuschüsse: In manchen Fällen können Versicherte von der GKV oder der PKV Zuschüsse für bestimmte medizinische Leistungen erhalten, beispielsweise für die Anschaffung von Hörgeräten oder Zahnersatz. 
-
-### Aus dem WWW
 
 https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
 
