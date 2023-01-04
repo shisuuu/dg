@@ -45,6 +45,8 @@ Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GR
 - Einführung von weiteren Leistungen zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit
 - Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten usw.
 
+01.01.1991: Ausweitung des Krankenversicherungsrecht auf die neuen Bundesländer durch die deutsche Wiedervereinigung.
+
 Heute umfasst das deutsche Krankenversicherungssystem neben der GKV auch die PKV.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Versicherungsunternehmen angeboten wird.
 
