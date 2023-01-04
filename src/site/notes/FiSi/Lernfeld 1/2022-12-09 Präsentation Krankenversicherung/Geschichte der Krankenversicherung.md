@@ -29,7 +29,7 @@ Auf Forderungen der Arbeiterbewegung verabschiedete der Deutsche Reichstag das K
 
 1941: Übernahme aller Rentner in die Krankenversicherung
 
-1949: Nach der Gründung der BRD wird die Selbstverwaltung der Krankenversicherung 1951 wiederhergestellt 
+1951: Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung 1951 wiederhergestellt 
 
 1970: 
 - (durch wirtschaftlichen Aufschwung) Verbesserung des Leitungskatalogs der Krankenversicherung
