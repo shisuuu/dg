@@ -24,9 +24,8 @@ Auf Forderungen der Arbeiterbewegung verabschiedete der Deutsche Reichstag das K
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
 
-Jeder Deutsche hat die Pflicht, so zu leben, dass er gesund und arbeitsfähig bleibt.
-
-Krankheit ist ein Versagen. Wer krankheitshalber häufig am Arbeitsplatz fehlt, ist ein schlechter Kranker.
+> Jeder Deutsche hat die Pflicht, so zu leben, dass er gesund und arbeitsfähig bleibt.
+> Krankheit ist ein Versagen. Wer krankheitshalber häufig am Arbeitsplatz fehlt, ist ein schlechter Kranker.
 
 1941: Übernahme aller Rentner in die Krankenversicherung
 
