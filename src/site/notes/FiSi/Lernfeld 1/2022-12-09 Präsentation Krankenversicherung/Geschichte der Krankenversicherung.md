@@ -48,6 +48,8 @@ Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GR
 Heute umfasst das deutsche Krankenversicherungssystem neben der GKV auch die PKV.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Versicherungsunternehmen angeboten wird.
 
+Überführung → Definition GKV & PKV
+
 ### Recherche Überbleibsel aus dem WWW
 
 - die gesetzliche Krankenversicherung kannte bei ihrer Einführung zunächst keine allgemeine Leistungspflicht für Familienmitglieder, abgesehen von der sogenannten *Wochenhilfe* (Kosten der Entbindung), die Ehefrauen und Töchtern gewährt wurden, die selbst keine eigenen Krankenversicherungsschutz hatten
