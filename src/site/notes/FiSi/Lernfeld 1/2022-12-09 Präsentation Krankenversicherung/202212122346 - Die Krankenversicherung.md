@@ -13,7 +13,7 @@
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Geschichte der Krankenversicherung\|Geschichte der Krankenversicherung]] (Thien)
 
-[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]]
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]] (Niklas)
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 
