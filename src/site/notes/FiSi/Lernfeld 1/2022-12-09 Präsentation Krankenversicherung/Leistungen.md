@@ -67,4 +67,4 @@ Die Rehabilitation soll Patienten bei der Wiedererlangung körperlicher, berufli
 2. zur Verhütung von Krankheiten und von deren Verschlimmerung sowie zur Empfängnisverhütung, bei Sterilisation und bei Schwangerschaftsabbruch (§§ 20 bis 24b),
 3. zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten (§§ 25 und 26),
 4. zur Behandlung einer Krankheit (§§ 27 bis 52),
-5. des Persönlichen Budgets nach § 29 des Neunten Buches.
+G5. des Persönlichen Budgets nach § 29 des Neunten Buches.
