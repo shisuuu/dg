@@ -41,6 +41,7 @@ Auf Forderungen der Arbeiterbewegung verabschiedete der Deutsche Reichstag das K
 Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GRG) integriert.
 - Einführung von weiteren Leistungen zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit
 - Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten usw.
+- Einführung der Familienversicherung, die wir in der heutigen Form kennen
 
 01.01.1991: Ausweitung des Krankenversicherungsrecht auf die neuen Bundesländer durch die deutsche Wiedervereinigung.
 
