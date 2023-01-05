@@ -19,7 +19,7 @@
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
 
-- Probleme & Lösungen [[Quellen.docx]] & [[Folien.pptx]] (Nico)
+- Probleme & Lösungen (Nico)
 
 **Wissenswertes**
 
