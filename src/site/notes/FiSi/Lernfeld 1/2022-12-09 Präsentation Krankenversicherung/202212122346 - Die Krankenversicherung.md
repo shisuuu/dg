@@ -5,7 +5,6 @@
 
 # Die Krankenversicherung
 
-
 - Grundsätzlich sind alle Personen, die in Deutschland wohnen, versicherungspflichtig
 	- dabei wird zwischen der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\| gesetzlichen Krankenversicherung]] (Pflichtversicherung) und der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Private Krankenversicherung (PKV)\|privaten Krankenversicherung]] (Individualversicherung) unterschieden 
 		 - Die Wahl hängt u.a. vom Einkommen, Beruf und individuelle Bedürfnisse ab
@@ -16,9 +15,9 @@
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
 
-[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] (Krankenhilfe, Mutterschaftshilfe, Familienhilfe, Reha)
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] 
 
-- Probleme & Lösungen (Nico)
+Probleme & Lösungen (Nico)
 
 **Wissenswertes**
 
