@@ -55,7 +55,8 @@ Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
 - RVO war durch viele Zusätze und Ergänzungen unübersichtlich
 > Daher soll das SGB die RVO in vielen Bereichen ersetzen und ergänzen
 
-1989: Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
+1989
+Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 > Das Gesundheitsreformgesetz wurde im November 1988 vom Bundestag verabschiedet
 > Damit wurde ab dem 1. Januar 1989 die GKV aus dem 2. Buch der RVO in das Fünfte Buch des SGBs übernommen
 - Einführung von weiteren Leistungen 
@@ -64,7 +65,8 @@ Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
 - Einführung der Familienversicherung
 > Die wir in der heutigen Form so kennen
 
-01.01.1991: Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
+01.01.1991
+Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
 
 Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Krankenversicherungsunternehmen angeboten wird.
