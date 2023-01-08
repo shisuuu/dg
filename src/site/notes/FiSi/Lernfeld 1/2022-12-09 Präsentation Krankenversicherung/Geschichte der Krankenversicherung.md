@@ -36,7 +36,7 @@ Zeit des Nationalsozialismus
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
 > Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
-> So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben
+> So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben wurde
 
 1941
 01.08.
@@ -66,7 +66,7 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 > Die wir in der heutigen Form so kennen
 
 1991
-01.01
+01.01.
 Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
 
 Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
