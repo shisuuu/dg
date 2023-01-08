@@ -32,7 +32,7 @@ Einführung der Reichsversicherungsordnung als gesetzliche Grundlage
 - zweites Gesetzbuch enthält das Recht zur Krankenversicherung
 
 1933 - 1945 
-Beginn der Zeit des Nationalsozialismus
+Zeit des Nationalsozialismus
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
 > Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
