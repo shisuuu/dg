@@ -69,7 +69,7 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 01.01.
 Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
 
-Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
+Das heutige deutsche Krankenversicherungssystem ist ein duales System, das die GKV und PKV umfasst.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Krankenversicherungsunternehmen angeboten wird.
 
 Überführung → Definition [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Private Krankenversicherung (PKV)\|PKV]]
