@@ -65,7 +65,8 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 - Einführung der Familienversicherung
 > Die wir in der heutigen Form so kennen
 
-01.01.1991
+1991
+01.01
 Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
 
 Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
