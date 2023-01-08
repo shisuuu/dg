@@ -36,7 +36,7 @@ Zeit des Nationalsozialismus
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
 > Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
-> Beispielsweise wurde die Selbstverwaltung zwischenzeitlich aufgehoben
+> So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben
 
 1941
 01.08.
