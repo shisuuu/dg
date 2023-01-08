@@ -8,7 +8,7 @@
 ## Zeitstrahl
 Neben anderen Versicherungen in der Sozialversicherung..
 
-1883:
+1883
 15. Juni 
 Geburtsstunde der Krankenversicherung
 - Verabschiedung des Krankenversicherungsgesetzes durch den Deutschen Reichstag unter Otto von Bismarck 
