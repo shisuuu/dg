@@ -49,21 +49,25 @@ Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenver
 - Erweiterung des Leitungskatalogs der Krankenversicherung
 > durch den wirtschaftlichen Aufschrung (Wirtschaftsboom) wurde der Leitungskatalog erweitert
 
-1975: Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
+1975 
+Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
 > Das Sozialgesetzbuch (SGB) ist eine Sammlung von Gesetzen, die verschiedene Bereiche der Sozialversicherung in Deutschland regeln
 - RVO war durch viele Zusätze und Ergänzungen unübersichtlich
 > Daher soll das SGB die RVO in vielen Bereichen ersetzen und ergänzen
 
-1988: Einführung der Regelungen der Krankenversicherung nach SGB V.
-Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GRG) integriert.
-- Einführung von weiteren Leistungen zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit
-- Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten usw.
-- Einführung der Familienversicherung, die wir in der heutigen Form kennen
+1989: Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
+> Das Gesundheitsreformgesetz wurde im November 1988 vom Bundestag verabschiedet
+> Damit wurde ab dem 1. Januar 1989 die GKV aus dem 2. Buch der RVO in das Fünfte Buch des SGBs übernommen
+- Einführung von weiteren Leistungen 
+> Die zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit beitragen
+- Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten
+- Einführung der Familienversicherung
+> Die wir in der heutigen Form so kennen
 
-01.01.1991: Ausweitung des Krankenversicherungsrecht auf die neuen Bundesländer durch die deutsche Wiedervereinigung.
+01.01.1991: Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
 
-Heute umfasst das deutsche Krankenversicherungssystem neben der GKV auch die PKV.
-Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Versicherungsunternehmen angeboten wird.
+Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
+Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Krankenversicherungsunternehmen angeboten wird.
 
 Überführung → Definition GKV & PKV
 
