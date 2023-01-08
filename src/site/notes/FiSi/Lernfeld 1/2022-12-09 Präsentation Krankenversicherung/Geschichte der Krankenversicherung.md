@@ -8,34 +8,51 @@
 ## Zeitstrahl
 Neben anderen Versicherungen in der Sozialversicherung..
 
-15. Juni 1883: Geburtsstunde der Krankenversicherung
-Auf Forderungen der Arbeiterbewegung verabschiedete der Deutsche Reichstag das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
+1883:
+15. Juni 
+Geburtsstunde der Krankenversicherung
+- Verabschiedung des Krankenversicherungsgesetzes durch den Deutschen Reichstag unter Otto von Bismarck 
+> Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
 
 - wichtiger Meilenstein in der Sozialgeschichte 
 - weitreichende Auswirkungen auf die Gesundheitsversorgung der Bevölkerung
-- Grundlage für die Entwicklung von Krankenversicherungssystemen in anderen Ländern 
-19. Juli 1911: Einführung der Reichsversicherungsordnung
-- Weiterentwicklung des Krankenversicherungsgesetzes von 1883
-- Einführung der Krankenversicherungsträger durch die RVO, die als Selbstverwaltungsorganisationen die Leistungen der gesetzlichen Krankenversicherung erbrachten
-- zweites Gesetzbuch enthält das Recht zur Krankenversicherung
-- bis 1992 die Grundlage des deutschen Sozialrechts
+> medizinische Versorgung (auch für Geringverdiener)
+> finanzielle Unterstützung im Krankheitsfall
 
-1933: Beginn der Zeit des Nationalsozialismus
+- Grundlage für die Entwicklung von Krankenversicherungssystemen in anderen Ländern
+> Österreich, Niederlande, Belgien
+
+1911 
+19. Juli
+Einführung der Reichsversicherungsordnung als gesetzliche Grundlage
+- Weiterentwicklung des Krankenversicherungsgesetzes von 1883
+- bis 1992 die Grundlage des deutschen Sozialrechts
+- Einführung der Krankenversicherungsträger 
+> Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
+- zweites Gesetzbuch enthält das Recht zur Krankenversicherung
+
+1933 - 1945 
+Beginn der Zeit des Nationalsozialismus
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
+> Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
+> Beispielsweise wurde die Selbstverwaltung zwischenzeitlich aufgehoben
 
-1941: Übernahme aller Rentner in die Krankenversicherung
+1941
+01.08.
+Übernahme aller Rentner in die Krankenversicherung
 
-1951: Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
+1951 
+Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
 
-1970: 
-- (wegen wirtschaftlichem Aufschwung) Verbesserung des Leitungskatalogs der Krankenversicherung
-- Einführung des Leistungsverbesserungsgesetzes und des Rehabilitationsgesetzes        
+1965 - 1970
+- Erweiterung des Leitungskatalogs der Krankenversicherung
+> durch den wirtschaftlichen Aufschrung (Wirtschaftsboom) wurde der Leitungskatalog erweitert
 
 1975: Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
+> Das Sozialgesetzbuch (SGB) ist eine Sammlung von Gesetzen, die verschiedene Bereiche der Sozialversicherung in Deutschland regeln
 - RVO war durch viele Zusätze und Ergänzungen unübersichtlich
-- SGB soll RVO in vielen Bereichen ersetzen
-- Enthält Regelungen für die verschiedenen Zweige der Sozialversicherung, die in der Reichsversicherungsordnung festgelegt waren
+> Daher soll das SGB die RVO in vielen Bereichen ersetzen und ergänzen
 
 1988: Einführung der Regelungen der Krankenversicherung nach SGB V.
 Das Krankenversicherungsrecht wurde im Rahmen des Gesundheits-Reformgesetzes (GRG) integriert.
