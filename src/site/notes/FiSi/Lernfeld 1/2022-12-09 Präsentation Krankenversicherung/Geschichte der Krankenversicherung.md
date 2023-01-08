@@ -69,30 +69,5 @@ Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
 Das heutige deutsche Krankenversicherungssystem umfasst neben der GKV auch die PKV.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Krankenversicherungsunternehmen angeboten wird.
 
-Überführung → Definition GKV & PKV
-
-### Recherche Überbleibsel aus dem WWW
-
-- die gesetzliche Krankenversicherung kannte bei ihrer Einführung zunächst keine allgemeine Leistungspflicht für Familienmitglieder, abgesehen von der sogenannten *Wochenhilfe* (Kosten der Entbindung), die Ehefrauen und Töchtern gewährt wurden, die selbst keine eigenen Krankenversicherungsschutz hatten
-
-- Die Familienhilfe wurde durch Notverordnung des Kabinetts Brüning I vom 26. Juli 1930 verpflichtend für alle Krankenkassen eingeführt
-- Die Familienhilfe deckte bis 1975 nur drei bestimmte Leistungen ab:
-	- Hilfe bei Krankheit (§205 RVO)
-	- Mutterschaftshilfe (§205a RVO)
-	- Sterbegeld (§205b RVO)
-	- Für Arzneimittel musste aus der eigenen Tasche gezahlt werden
-
-- [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] wurde in der heutigen Form mit der Einführung des SGB V im Jahre 1989 eingeführt
-
-
-https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
-
-Der Leistungskatalog sah damals folgende Leistungen vor:
-Freie ärztliche Behandlung
-Freie Arzneimittel
-Kleinere Heilmittel
-Im Falle der Arbeitsunfähigkeit Krankengeld ab 3. Tag von mindestens 50 Prozent des Lohnes (Höchstdauer 26 Wochen)
-Sterbegeld in Höhe 20facher Lohn
-Wöchnerinnenunterstützung für vier Wochen nach Niederkunft
-Die Krankenversicherung wurde durch Ortskrankenkassen, Betriebskrankenkassen, Baukrankenkassen, Innungskrankenkassen, Knappschaftskassen und Hilfskassen durchgeführt.
+Überführung → Definition [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Private Krankenversicherung (PKV)\|PKV]]
 
