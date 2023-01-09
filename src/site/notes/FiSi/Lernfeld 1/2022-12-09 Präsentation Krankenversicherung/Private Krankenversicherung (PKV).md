@@ -21,7 +21,8 @@
 - Formen der Krankenversicherung[^1]
 	- Vollversicherung
 	- Teilversicherung
-	- Zusatzversicherung
+	- [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|Zusatzversicherung]]
+
 
 > Vollversicherung: Absicherung der gesamten Krankheitskosten - also für ambulante und stationäre Leistungen
 > Teilversicherung: Absicherung eines variablen Teils der Krankheitskosten
@@ -41,7 +42,6 @@
 
 
 
-- [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|Zusatzversicherung]]
 
 ## Überbleibsel
 
