@@ -10,7 +10,7 @@
 1883
 15. Juni 
 Geburtsstunde der Krankenversicherung
-- Verabschiedung des Krankenversicherungsgesetzes durch den Deutschen Reichstag unter Otto von Bismarck 
+- Verabschiedung des Krankenversicherungsgesetzes 
 > Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
 
 - wichtiger Meilenstein in der Sozialgeschichte 
@@ -30,12 +30,15 @@ Einführung der Reichsversicherungsordnung als gesetzliche Grundlage
 > Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
 - zweites Gesetzbuch enthält das Recht zur Krankenversicherung
 
+
 1933 - 1945 
 Zeit des Nationalsozialismus
 - Grundlegende Änderungen des Aufbaus der Krankenkassen in Organisation, Finanzierung und Aufsicht
 - Abschaffung der Selbstverwaltung der Krankenversicherung
 > Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
 > So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben wurde
+
++
 
 1941
 01.08.
@@ -46,7 +49,7 @@ Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenver
 
 1965 - 1970
 - Erweiterung des Leitungskatalogs der Krankenversicherung
-> durch den wirtschaftlichen Aufschrung (Wirtschaftsboom) wurde der Leitungskatalog erweitert
+> durch den wirtschaftlichen Aufschwung (Wirtschaftsboom) wurde der Leitungskatalog erweitert
 
 1975 
 Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
