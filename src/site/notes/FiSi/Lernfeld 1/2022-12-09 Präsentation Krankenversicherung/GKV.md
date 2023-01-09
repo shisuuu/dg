@@ -30,7 +30,7 @@
 > in der GKV besteht ein Anspruch auf
 
 
-### Überbleibsel
+## Überbleibsel
 
 - GKV-Beitrag ist einkommensabhängig
 
