@@ -3,7 +3,6 @@
 ---
 
 
-==wird überarbeitet==
 
 ## Die private Krankenversicherung
 
