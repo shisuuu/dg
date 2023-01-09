@@ -15,8 +15,8 @@ Geburtsstunde der Krankenversicherung
 
 - wichtiger Meilenstein in der Sozialgeschichte 
 - weitreichende Auswirkungen auf die Gesundheitsversorgung der Bevölkerung
-> medizinische Versorgung (auch für Geringverdiener)
 > finanzielle Unterstützung im Krankheitsfall
+> Der Leistungskatalog sah Leistungen wie freie ärztliche Behandlung, Krankenhausbesuche und Arzneimittel vor
 
 - Grundlage für die Entwicklung von Krankenversicherungssystemen in anderen Ländern
 > Österreich, Niederlande, Belgien
