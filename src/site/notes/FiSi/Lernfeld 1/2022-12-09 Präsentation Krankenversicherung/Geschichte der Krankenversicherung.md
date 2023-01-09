@@ -6,7 +6,6 @@
 # Geschichte der Krankenversicherung
 
 ## Zeitstrahl
-Neben anderen Versicherungen in der Sozialversicherung..
 
 1883
 15. Juni 
