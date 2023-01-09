@@ -9,7 +9,7 @@
 
 - Versicherungsschutz durch private Unternehmen
 > In der privaten Krankenversicherung wird angeboten
-> Anders als bei der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] kommt das Versicherungsverhältnis nicht durch das Gesetz, sondern durch einen privatrechtlichen Vertrag zustande kommt
+> Anders als bei der [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/GKV\|GKV]] kommt das Versicherungsverhältnis nicht durch das Gesetz, sondern durch einen privatrechtlichen Vertrag zustande
 
 - Mitglieder unterliegen nicht der versicherungspflicht oder sind versicherungsfrei
 > Privat versichern dürfen sich: 
@@ -22,7 +22,6 @@
 	- Vollversicherung
 	- Teilversicherung
 	- [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/private Zusatzversicherung\|Zusatzversicherung]]
-
 
 > Vollversicherung: Absicherung der gesamten Krankheitskosten - also für ambulante und stationäre Leistungen
 > Teilversicherung: Absicherung eines variablen Teils der Krankheitskosten
