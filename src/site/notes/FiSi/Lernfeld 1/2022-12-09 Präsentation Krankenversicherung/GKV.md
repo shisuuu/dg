@@ -22,6 +22,7 @@
 - Bedarfsdeckungsprinzip
 > Die GKV gewährt ihren Versicherten medizinisch notwendige Leistungen in einem Umfang, der den tatsächlichen Bedarf an medizinischer Versorgung deckt 
 
+
 - [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] 
 > in der GKV besteht ein Anspruch auf
 
@@ -42,3 +43,5 @@ Pflichtmitglieder in der GKV sind alle Arbeitnehmerinnen und Arbeitnehmer mit ei
 
 pflichtversichert sind: Arbeitnehmer, Arbeitslosengeldempfänger, Rentner, Studenten, selbstständige Landwirte, selbstständige Künstler und Personen ohne Absicherung im Krankheitsfall
 
+- [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Solidaritätsprinzip\|Solidaritätsprinzip]]
+> Beiträge werden solidarisch, also entsprechend der finanziellen Leistungsfähigkeit der Versicherten aufgebracht
