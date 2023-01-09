@@ -60,7 +60,9 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 > Damit wurde ab dem 1. Januar 1989 die GKV aus dem 2. Buch der RVO in das Fünfte Buch des SGBs übernommen
 - Einführung von weiteren Leistungen 
 > Die zur Förderung der Gesundheit, Früherkennung von Krankenheiten und Leistungen bei Schwerpflegebedürftigkeit beitragen
-- Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen , Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten
+
+- Enthält Regelungen zur Krankenversicherung
+> Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen, Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten
 - Einführung der Familienversicherung
 > Die wir in der heutigen Form so kennen
 
