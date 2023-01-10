@@ -24,7 +24,7 @@
 
 
 - [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] 
-> ==erklärt das jemand?==
+> ==ganz kurze erklärung?==
 
 
 ## Überbleibsel
