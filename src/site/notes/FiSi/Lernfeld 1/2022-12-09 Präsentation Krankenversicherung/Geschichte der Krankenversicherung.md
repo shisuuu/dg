@@ -11,7 +11,7 @@
 15. Juni 
 Geburtsstunde der Krankenversicherung
 - Verabschiedung des Krankenversicherungsgesetzes 
-> Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
+> Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag u.a.das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
 
 - wichtiger Meilenstein in der Sozialgeschichte 
 - weitreichende Auswirkungen auf die Gesundheitsversorgung der Bevölkerung
