@@ -12,7 +12,7 @@
 [^1]: https://flexikon.doccheck.com/de/Gesetzliche_Krankenversicherung
 
 - Versicherungsschutz im Krankheitsfall 
-> Die Krankenversicherung sichert ihre Mitglieder vor den finanziellen Folgen von Krankheiten und Verletzungen
+> Die Krankenversicherung sichert ihre Mitglieder vor den finanziellen Folgen von Krankheiten und Verletzungen ab
 
 - pflicht oder freiwillig versichert
 > Pflichtmitglieder sind Arbeitnehmer, deren Einkommen unter der Beitragsbemessungsgrenze liegen
@@ -24,7 +24,7 @@
 
 
 - [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Familienversicherung\|Familienversicherung]] 
-> in der GKV besteht ein Anspruch auf
+> ==erklärt das jemand?==
 
 
 ## Überbleibsel
