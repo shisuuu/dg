@@ -40,12 +40,6 @@ Zeit des Nationalsozialismus
 > Während der Zeit des NS kam es zu starken Eingriffen in das Gesetzeswerk
 > So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben wurde
 
-+
-
-1941
-01.08.
-Übernahme aller Rentner in die Krankenversicherung
-
 1951 
 Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
 
