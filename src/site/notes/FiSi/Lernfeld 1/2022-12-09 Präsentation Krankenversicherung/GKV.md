@@ -15,7 +15,7 @@
 > Gewährleistung
 
 - pflicht oder freiwillig versichert
-
+> Pflichtmitglieder sind Arbeitnehmer, deren Einkommen unter der Beitragsbemessungsgrenze liegen
 - Leistungsgerechtigkeit
 > jedes Mitglied der GKV hat Anspruch auf einen einheitlichen [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungskatalog\|Leistungskatalog]], unabhängig von der finanziellen Leistungsfähigkeit
 
