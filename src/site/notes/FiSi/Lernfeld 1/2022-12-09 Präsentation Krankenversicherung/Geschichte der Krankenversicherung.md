@@ -11,7 +11,7 @@
 15. Juni 
 Geburtsstunde der Krankenversicherung
 - Verabschiedung des Krankenversicherungsgesetzes 
-> Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag u.a.das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
+> Auf Forderung der Arbeiterbewegung nach einer Sozialreform bezüglich der sozialen Frage verabschiedete der Deutsche Reichstag u.a. das Krankenversicherungsgesetz, das den Aufbau eines Systems zur Absicherung der Bevölkerung bei Krankheit vorsah, unter dem damaligen Reichskanzler Otto von Bismarck.
 
 - wichtiger Meilenstein in der Sozialgeschichte 
 - weitreichende Auswirkungen auf die Gesundheitsversorgung der Bevölkerung
@@ -26,8 +26,8 @@ Geburtsstunde der Krankenversicherung
 Einführung der Reichsversicherungsordnung 
 > als gesetzliche Grundlage
 - Weiterentwicklung des Krankenversicherungsgesetzes von 1883
-> Mit ihr werden KV, UV, RV zu einem einheitlichen Gesetzwerk zusammengefasst
 > bis 1992 die Grundlage des deutschen Sozialrechts
+> Mit ihr werden KV, UV, RV zu einem einheitlichen Gesetzwerk zusammengefasst
 - Einführung der Krankenversicherungsträger 
 > Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
 - zweites Gesetzbuch enthält das Recht zur Krankenversicherung
