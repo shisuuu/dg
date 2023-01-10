@@ -23,9 +23,11 @@ Geburtsstunde der Krankenversicherung
 
 1911 
 19. Juli
-Einführung der Reichsversicherungsordnung als gesetzliche Grundlage
+Einführung der Reichsversicherungsordnung 
+> als gesetzliche Grundlage
 - Weiterentwicklung des Krankenversicherungsgesetzes von 1883
-- bis 1992 die Grundlage des deutschen Sozialrechts
+> Mit ihr werden KV, UV, RV zu einem einheitlichen Gesetzwerk zusammengefasst
+> bis 1992 die Grundlage des deutschen Sozialrechts
 - Einführung der Krankenversicherungsträger 
 > Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
 - zweites Gesetzbuch enthält das Recht zur Krankenversicherung
@@ -47,9 +49,13 @@ Zeit des Nationalsozialismus
 1951 
 Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
 
-1965 - 1970
+1970 - 1975
 - Erweiterung des Leitungskatalogs der Krankenversicherung
 > durch den wirtschaftlichen Aufschwung (Wirtschaftsboom) wurde der Leitungskatalog erweitert
+> Rehabilitationsgesetz [^2]
+> Einbeziehung von Studenten und Behinderten in die GKV
+
+[^2]: https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl174s1881.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl174s1881.pdf%27%5D__1673366004509
 
 1975 
 Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
@@ -69,9 +75,11 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 - Einführung der Familienversicherung
 > Die wir in der heutigen Form so kennen
 
-1991
+1991[^1]
 01.01.
 Ausdehnung des Krankenversicherungsrechts auf die neuen Bundesländer nach der deutschen Wiedervereinigung.
+
+[^1]: https://sozialversicherung-kompetent.de/sozialversicherung/allgemeines/28-geschichte-der-krankenversicherung.html
 
 Das heutige deutsche Krankenversicherungssystem ist ein duales System, das die GKV und PKV umfasst.
 Die Verwaltung der GKV erfolgt über die Krankenkassen, während die PKV von verschiedenen Krankenversicherungsunternehmen angeboten wird.
