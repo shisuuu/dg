@@ -67,7 +67,7 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 - Enthält Regelungen zur Krankenversicherung
 > Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen, Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten
 - Einführung der Familienversicherung
-> Die wir in der heutigen Form so kennen
+> ==sinnvolles, was man dazu sagen kann==
 
 1991[^1]
 01.01.
