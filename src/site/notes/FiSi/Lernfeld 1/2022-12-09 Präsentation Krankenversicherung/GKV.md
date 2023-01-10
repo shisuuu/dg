@@ -12,7 +12,7 @@
 [^1]: https://flexikon.doccheck.com/de/Gesetzliche_Krankenversicherung
 
 - Versicherungsschutz im Krankheitsfall 
-> Gewährleistung
+> Die Krankenversicherung sichert ihre Mitglieder vor den finanziellen Folgen von Krankheiten und Verletzungen
 
 - pflicht oder freiwillig versichert
 > Pflichtmitglieder sind Arbeitnehmer, deren Einkommen unter der Beitragsbemessungsgrenze liegen
