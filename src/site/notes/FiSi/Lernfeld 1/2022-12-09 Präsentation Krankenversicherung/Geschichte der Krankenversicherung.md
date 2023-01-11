@@ -45,7 +45,7 @@ Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenver
 
 1970 - 1975
 - Erweiterung des Leitungskatalogs der Krankenversicherung
-> durch den wirtschaftlichen Aufschwung (Wirtschaftsboom) der 1950er Jahre, wurde der Leitungskatalog stets erweitert:
+> seit dem wirtschaftlichen Aufschwung (Wirtschaftsboom) der 1950er Jahre, wurde der Leistungskatalog stets erweitert:
 > Rehabilitationsgesetz[^2]
 > Einbeziehung von Studenten und Behinderten in die GKV
 
@@ -67,6 +67,7 @@ Einführung der Regelungen der Krankenversicherung nach Fünftem Buch des SGBs.
 - Enthält Regelungen zur Krankenversicherung
 > Enthält Regelungen zu Leistungen der GKV und PKV, Beiträgen, Krankenkassen und Versicherungsunternehmen, Rechte und Pflichten der Versicherten
 - Einführung der Familienversicherung
+> die wir in der heutigen Form so kennen
 
 1991[^1]
 01.01.
