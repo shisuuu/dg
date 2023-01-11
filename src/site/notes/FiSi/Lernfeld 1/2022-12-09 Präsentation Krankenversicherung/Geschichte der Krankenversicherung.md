@@ -43,13 +43,16 @@ Zeit des Nationalsozialismus
 1951 
 Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
 
-1970 - 1975
+1974 - 1975
 - Erweiterung des Leitungskatalogs der Krankenversicherung
 > seit dem wirtschaftlichen Aufschwung (Wirtschaftsboom) der 1950er Jahre, wurde der Leistungskatalog stets erweitert:
-> Rehabilitationsgesetz[^2]
-> Einbeziehung von Studenten und Behinderten in die GKV
+> 1974 Rehabilitationsgesetz[^2]
+> 1974 Leistungsverbesserungsgesetz, das die Haushaltshilfe oder bei der Freistellung von Arbeit Krankengeld für die Betreuung von Kindern unter acht Jahren gewährt[^3]
+> 1975 Einbeziehung von Studenten und Behinderten in die GKV
 
 [^2]: https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl174s1881.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl174s1881.pdf%27%5D__1673366004509
+
+[^3]: https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131902/1-januar-1974/
 
 1975 
 Schrittweise Erarbeitung des Sozialgesetzbuchs (SGB)
