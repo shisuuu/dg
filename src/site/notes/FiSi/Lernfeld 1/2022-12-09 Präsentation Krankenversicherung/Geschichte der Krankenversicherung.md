@@ -45,9 +45,10 @@ Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenver
 
 1970 - 1975
 - Erweiterung des Leitungskatalogs der Krankenversicherung
-> durch den wirtschaftlichen Aufschwung (Wirtschaftsboom) der 1950er Jahre wurde der Leitungskatalog stets erweitert
-> Rehabilitationsgesetz [^2]
+> durch den wirtschaftlichen Aufschwung (Wirtschaftsboom) der 1950er Jahre, wurde der Leitungskatalog stets erweitert:
+> Rehabilitationsgesetz 
 > Einbeziehung von Studenten und Behinderten in die GKV
+[^2]
 
 [^2]: https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl174s1881.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl174s1881.pdf%27%5D__1673366004509
 
