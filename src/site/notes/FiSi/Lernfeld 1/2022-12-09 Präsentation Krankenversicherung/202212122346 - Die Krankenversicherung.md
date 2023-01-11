@@ -13,9 +13,9 @@
 
 [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungsträger\|Versicherungsträger]] & [[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Versicherungspflichtige\|Versicherungspflichtige]] (Niklas)
 
-[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]]
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Beiträge\|Beiträge]] (Sören)
 
-[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] 
+[[FiSi/Lernfeld 1/2022-12-09 Präsentation Krankenversicherung/Leistungen\| Leistungen 1&2]] (Armin & Jacob)
 
 Probleme & Lösungen (Nico)
 
