@@ -42,7 +42,8 @@ Zeit des Nationalsozialismus
 > So kam es, dass die Selbstverwaltung der Krankenversicherung zwischenzeitlich aufgehoben wurde
 
 1951 
-Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
+- Wiederherstellung der Selbstverwaltung der Kraneknversicherung
+> Nach der Gründung der BRD im Jahr 1949 wird die Selbstverwaltung der Krankenversicherung wiederhergestellt 
 
 1974 - 1975
 - Erweiterung des Leitungskatalogs der Krankenversicherung
