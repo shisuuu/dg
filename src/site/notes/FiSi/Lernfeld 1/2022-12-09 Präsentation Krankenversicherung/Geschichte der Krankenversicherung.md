@@ -28,7 +28,7 @@ Einführung der Reichsversicherungsordnung
 - Weiterentwicklung des Krankenversicherungsgesetzes von 1883
 > bis 1992 die Grundlage des deutschen Sozialrechts
 > Mit ihr werden KV, UV, RV zu einem einheitlichen Gesetzwerk zusammengefasst
-- Einführung der Krankenversicherungsträger 
+- Einführung der Krankenversicherungsträger als Selbstverwaltungsorganisation
 > Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
 - zweites Gesetzbuch enthält das Recht zur Krankenversicherung
 
