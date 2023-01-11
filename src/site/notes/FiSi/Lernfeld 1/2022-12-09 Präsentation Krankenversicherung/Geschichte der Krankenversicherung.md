@@ -30,7 +30,8 @@ Einführung der Reichsversicherungsordnung
 > Mit ihr werden KV, UV, RV zu einem einheitlichen Gesetzwerk zusammengefasst
 - Einführung der Krankenversicherungsträger als Selbstverwaltungsorganisation
 > Mit der Reichsversicherungsordnung wurden auch die Krankenträger als Selbstverwaltungsorganisationen eingeführt
-- zweites Gesetzbuch enthält das Recht zur Krankenversicherung
+- "Recht zur Krankenversicherung"
+> zweites Gesetzbuch enthält das Recht zur Krankenversicherung
 
 
 1933 - 1945 
